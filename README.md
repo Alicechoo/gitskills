@@ -1,4 +1,6 @@
 # gitskills
 Creating a new branch
-bug-fix
-fix for issue-102
+change README in dev branch with dev hhh
+This is a stash test
+hhh 853
+bug-fix fix the same thing in dev branch
